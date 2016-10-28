@@ -1,0 +1,14 @@
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.dll
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.pdb
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.dll
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.dll.config
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\MySql.Data.dll
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\SmartParkingGarage.Core.dll.config
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\bin\Debug\MySql.Data.dll
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.Core\obj\Debug\SmartParkingGarage.Core.csprojResolveAssemblyReference.cache

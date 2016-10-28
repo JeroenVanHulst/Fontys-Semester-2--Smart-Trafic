@@ -1,0 +1,20 @@
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\bin\Debug\Entrance.exe.config
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\obj\Debug\Entrance.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\bin\Debug\Entrance.exe
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\bin\Debug\Entrance.pdb
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\obj\Debug\Entrance.exe
+C:\Users\Jeroen\Dropbox\School\Fontys\Semester 2\PTT21\Project\Ingang\Arduino\Entrance\Entrance\obj\Debug\Entrance.pdb
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe.config
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.exe
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.pdb
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.csprojResolveAssemblyReference.cache
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe
+C:\Users\jeroen\Google Drive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.pdb
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe.config
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.exe
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.pdb
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.pdb
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\SmartParkingGarage.Core.dll
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\SmartParkingGarage.Core.pdb
+C:\Users\Jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.csprojResolveAssemblyReference.cache

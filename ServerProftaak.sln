@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingGarage.Core", "SmartParkingGarage.Core\SmartParkingGarage.Core.csproj", "{5E23B312-7029-464D-9E35-3DC48B0E2AC2}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HostingService", "http://localhost:55053", "{1C4F8675-B252-41DB-8CE6-9A6C8520B8EB}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{394a9712-41f2-4f98-836c-daa702ae239c}|SmartParkingGarage.Server.dll;{5E23B312-7029-464D-9E35-3DC48B0E2AC2}|SmartParkingGarage.Core.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55053"
+		Debug.AspNetCompiler.PhysicalPath = "HostingService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55053\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55053"
+		Release.AspNetCompiler.PhysicalPath = "HostingService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55053\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "HostingService\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingGarage.Server", "SmartParkingGarage.Server\SmartParkingGarage.Server.csproj", "{394A9712-41F2-4F98-836C-DAA702AE239C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingGarage.Entrance", "SmartParkingGarage.Entrance\SmartParkingGarage.Entrance.csproj", "{399B594C-240C-4B57-9B96-C608C07D02E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingGarage.AdminPanelForm", "SmartParkingGarage.AdminPanel\SmartParkingGarage.AdminPanelForm.csproj", "{FA4629D0-462C-47A7-BF69-AE96799FF57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingGarage.AdminPanelSite", "SmartParkingGarage.AdminPanelSite\SmartParkingGarage.AdminPanelSite.csproj", "{AAB6F2A4-5D1B-4DEA-BFF0-BC2080A3E708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E23B312-7029-464D-9E35-3DC48B0E2AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E23B312-7029-464D-9E35-3DC48B0E2AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E23B312-7029-464D-9E35-3DC48B0E2AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E23B312-7029-464D-9E35-3DC48B0E2AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4F8675-B252-41DB-8CE6-9A6C8520B8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4F8675-B252-41DB-8CE6-9A6C8520B8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4F8675-B252-41DB-8CE6-9A6C8520B8EB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4F8675-B252-41DB-8CE6-9A6C8520B8EB}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{394A9712-41F2-4F98-836C-DAA702AE239C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394A9712-41F2-4F98-836C-DAA702AE239C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394A9712-41F2-4F98-836C-DAA702AE239C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394A9712-41F2-4F98-836C-DAA702AE239C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399B594C-240C-4B57-9B96-C608C07D02E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399B594C-240C-4B57-9B96-C608C07D02E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399B594C-240C-4B57-9B96-C608C07D02E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399B594C-240C-4B57-9B96-C608C07D02E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4629D0-462C-47A7-BF69-AE96799FF57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4629D0-462C-47A7-BF69-AE96799FF57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4629D0-462C-47A7-BF69-AE96799FF57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4629D0-462C-47A7-BF69-AE96799FF57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB6F2A4-5D1B-4DEA-BFF0-BC2080A3E708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6F2A4-5D1B-4DEA-BFF0-BC2080A3E708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6F2A4-5D1B-4DEA-BFF0-BC2080A3E708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6F2A4-5D1B-4DEA-BFF0-BC2080A3E708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

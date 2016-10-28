@@ -1,0 +1,4 @@
+D:\GoogleDrive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Service\bin\Debug\Service.dll
+D:\GoogleDrive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Service\bin\Debug\Service.pdb
+D:\GoogleDrive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Service\obj\Debug\Service.dll
+D:\GoogleDrive\Proftaak groep 1 T21\Code\C#\ServerSoftware\ServerProftaak\Service\obj\Debug\Service.pdb

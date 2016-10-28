@@ -1,0 +1,10 @@
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\SmartParkingGarage.ServerWCF.dll.config
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\SmartParkingGarage.ServerWCF.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\SmartParkingGarage.ServerWCF.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\Server.exe
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\SmartParkingGarage.Core.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\Server.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\bin\Debug\SmartParkingGarage.Core.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\obj\Debug\SmartParkingGarage.ServerWCF.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\obj\Debug\SmartParkingGarage.ServerWCF.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\SmartParkingGarage.ServerWCF\obj\Debug\SmartParkingGarage.ServerWCF.pdb

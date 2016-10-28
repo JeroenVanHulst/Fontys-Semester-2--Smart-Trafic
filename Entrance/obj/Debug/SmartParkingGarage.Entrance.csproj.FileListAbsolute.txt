@@ -1,0 +1,6 @@
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe.config
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.exe
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\bin\Debug\Entrance.pdb
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\SmartParkingGarage.Entrance.csprojResolveAssemblyReference.cache
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.exe
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Entrance\obj\Debug\Entrance.pdb

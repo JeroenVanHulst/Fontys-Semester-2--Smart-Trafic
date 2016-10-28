@@ -1,0 +1,5 @@
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

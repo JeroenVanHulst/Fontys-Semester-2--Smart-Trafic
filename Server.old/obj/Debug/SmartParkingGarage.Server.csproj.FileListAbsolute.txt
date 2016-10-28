@@ -1,0 +1,10 @@
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\Server.exe.config
+C:\Users\jeroen\Dropbox\C#\ServerSoftware\ServerProftaak\Server\obj\Debug\SmartParkingGarage.Server.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\Server.exe.config
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\Server.exe
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\Server.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\SmartParkingGarage.Core.dll
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\bin\Debug\SmartParkingGarage.Core.pdb
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\obj\Debug\SmartParkingGarage.Server.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\obj\Debug\Server.exe
+D:\Dropbox\C#\ServerSoftware\ServerProftaak\Server\obj\Debug\Server.pdb
